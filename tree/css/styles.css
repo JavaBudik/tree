@@ -1,0 +1,33 @@
+#wrapper {
+	max-witdh: 960px;
+	margin: auto;
+}
+header {
+	padding: 20px 0;
+	background: #f8f8f8;
+	}
+aside {
+	float: left;
+	width: 250px;
+	background: #f0f0f0;
+}
+section {
+	margin-left: 280px;
+	padding-bottom: 50px;
+	
+}
+.company-info {
+	font: 20pt 'Oswald';
+}
+.company-form {
+	font: 12pt 'Oswald';
+}
+.section-head {
+	font: 14pt 'Oswald';	
+}
+.hiding {
+	display:none;
+}
+select {
+	width: 175px;
+}
